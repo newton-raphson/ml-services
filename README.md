@@ -1,2 +1,3 @@
-# ml-services
-ML-service written on django
+
+API written on DJANGO for ML Services. Includes random forest classifier
+
